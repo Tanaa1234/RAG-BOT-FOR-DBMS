@@ -22,7 +22,7 @@ def load_pdfs_from_folder(folder_path):
         all_docs.extend(data)
     return all_docs
 
-st.title("CYBER SECURITY STUDY ASSISTANT - BY FIELD CISO ADVISORY")
+st.title("DBMS STUDY ASSISTANT - BY FIELD CISO ADVISORY")
 
 folder_path = "files"
 # Load and read the PDF file "linear.pdf" using PyPDFLoader.
